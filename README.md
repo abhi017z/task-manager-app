@@ -1,4 +1,4 @@
-■ Task Manager App
+**Task Manager App**
 A simple full-stack task manager built with React + Node.js.
 *Features
 - Add, complete, and delete tasks
