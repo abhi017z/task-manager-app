@@ -1,22 +1,22 @@
 ■ Task Manager App
 A simple full-stack task manager built with React + Node.js.
-■ Features
+*Features
 - Add, complete, and delete tasks
 - Filter (All / To Do / Done)
 - Simple task stats
-■■ Run Locally
-Install backend and frontend dependencies, then run:
-npm run dev
+*Run Locally
+-Install backend and frontend dependencies, then run:
+-npm run dev
 Open: http://localhost:3000
-■ API
-GET /api/tasks
-POST /api/tasks
-PATCH /api/tasks/:id
-DELETE /api/tasks/:id
-■■ Notes
+*API
+-GET /api/tasks
+-POST /api/tasks
+-PATCH /api/tasks/:id
+-DELETE /api/tasks/:id
+* Notes
 - Data resets on restart
 - No authentication
-■ Next Ideas
+* Next Ideas
 - Edit tasks
 - Add due dates
 - Save data
